@@ -952,7 +952,7 @@ breadcrumbs
   list-style-type: none;
 }
 .mil-breadcrumbs li:after {
-  content: "/";
+  content: "./";
   margin: 0 15px;
 }
 .mil-breadcrumbs li a {
