@@ -1,4 +1,4 @@
-# okcash.org
+# okcash.site - old
 Documentation Website for Okcash - Energy Friendly Open Source Digital Cash
 
 Site Languages so far: **Chinese (cn), Spanish (es), English(www), Italian (it), Portuguese (pt), Russian (ru), Ukrainian (uk)**
@@ -11,13 +11,13 @@ Site Languages so far: **Chinese (cn), Spanish (es), English(www), Italian (it),
 
 -------------------
 
-#### Okcash community website:
-https://okcash.co
+#### Okcash Network website:
+https://okcash.network
 
 #### Okcash documentation website:
 https://okcash.org
 
-#### Okcash tutorials website:
+#### Okcash Info website:
 https://okcash.info
 
 #### Okcash source code:
